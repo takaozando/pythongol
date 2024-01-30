@@ -1,0 +1,31 @@
+a recebe 1
+b recebe 2
+i recebe 0
+nome recebe 'Carlos'
+t recebe 4
+
+
+c recebe a mais b
+d recebe a menos b
+e recebe b multip i
+f recebe b div a
+imprime ( c )
+imprime ( 'ola mundo' )
+
+
+carros recebe [ 'ford', 'fiat', 'nissan' ]
+para carro em carros :
+	imprime ( carro )
+
+enquanto t menor a:
+	imprime ( 'a menor que b' )
+	a recebe 3
+
+funcao ola ( nome ) :
+	str recebe 'Ola' mais nome mais 'seja bem vindo!'
+	retorna str
+
+se a maior b :
+	z recebe 2
+
+imprime ( z )

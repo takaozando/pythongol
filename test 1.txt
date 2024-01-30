@@ -1,0 +1,5 @@
+a recebe 'teste'
+b recebe 2
+
+
+c recebe a menos b
